@@ -1,0 +1,8 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(35,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(128,12): warning C4101: 'pmin': unreferenced local variable
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(209,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(196,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(196,6): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication11.vcxproj -> C:\Users\Dan\Desktop\VisuaStudiol\ConsoleApplication11\Debug\ConsoleApplication11.exe
